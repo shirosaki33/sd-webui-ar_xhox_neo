@@ -1,0 +1,20 @@
+#arx_txt2img_container,
+#arx_img2img_container {
+    gap: 6px !important;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.arx-resolution-row {
+    gap: 8px !important;
+    flex-wrap: wrap !important;
+}
+
+.arx-resolution-button {
+    min-width: 120px !important;
+    max-width: unset !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    font-size: 0.85em !important;
+}
